@@ -1,4 +1,4 @@
-# Higher Accel Premium Website
+# Higher cel Premium Website
 
 Added:
 - Light / Dark theme toggle with saved preference
