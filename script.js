@@ -1,5 +1,5 @@
 const WHATSAPP_NUMBER = "2348065819110"; // Replace with the company's real WhatsApp number, digits only.
-const DEFAULT_MESSAGE = "Hello Higher Accel Travel Services & Tour Ltd. I would like help planning my trip.";
+const DEFAULT_MESSAGE = "Hello Higher Xcel Travel Services & Tour Ltd. I would like help planning my trip.";
 
 document.querySelector(".hamburger").addEventListener("click", () => document.querySelector(".menu").classList.toggle("open"));
 document.querySelectorAll(".menu a").forEach(a => a.addEventListener("click", () => document.querySelector(".menu").classList.remove("open")));
